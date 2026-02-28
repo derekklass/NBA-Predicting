@@ -1,1 +1,1 @@
-# NBA-Predicting
+# NBA Predicting | Matchup score neural network
